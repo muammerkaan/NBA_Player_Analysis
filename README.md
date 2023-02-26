@@ -1,7 +1,6 @@
 # Exploring the Ideal NBA Player
 You can find the project's notebook [here](https://github.com/isacmlee/ideal-nba-player-analysis/blob/master/Exploring%20the%20Ideal%20NBA%20Player.ipynb).
 
-![banner](images/banner.jpg)
 ## Introduction
 With the rise of sports analytics, comes the increasing demand for efficiency and data driven decisions in recruiting new players for NBA teams. Instead of simply eyeballing a player and gauging their surface level playing stats (pts, shot attempts, etc), we can now look at an entire list of detailed stats that range from the box score metric, which estimates a player's contribution to the team, to simpler metrics of offensive rebounds. With these metrics, we can compare players and determine who would be a good fit for a specific team based on their qualities. 
 ## Goal
